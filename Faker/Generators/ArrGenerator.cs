@@ -1,9 +1,9 @@
 ﻿namespace DTOFiller;
 
-public class ArrGenerator : IGenerator
+public class ArrGenerator<T> : IGenerator
 {
     const int baseLength = 10;
-    static Type BaseType = typeof(int);
+    static Type BaseType = typeof(T);
     public object Get()
     {
         return Get(baseLength, BaseType);
