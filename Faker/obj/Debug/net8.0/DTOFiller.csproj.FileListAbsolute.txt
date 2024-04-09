@@ -1,0 +1,11 @@
+C:\Users\ilyav\OneDrive\Рабочий стол\well\СПП GG\2\Faker\bin\Debug\net8.0\DTOFiller.deps.json
+C:\Users\ilyav\OneDrive\Рабочий стол\well\СПП GG\2\Faker\bin\Debug\net8.0\DTOFiller.dll
+C:\Users\ilyav\OneDrive\Рабочий стол\well\СПП GG\2\Faker\bin\Debug\net8.0\DTOFiller.pdb
+C:\Users\ilyav\OneDrive\Рабочий стол\well\СПП GG\2\Faker\obj\Debug\net8.0\DTOFiller.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ilyav\OneDrive\Рабочий стол\well\СПП GG\2\Faker\obj\Debug\net8.0\DTOFiller.AssemblyInfoInputs.cache
+C:\Users\ilyav\OneDrive\Рабочий стол\well\СПП GG\2\Faker\obj\Debug\net8.0\DTOFiller.AssemblyInfo.cs
+C:\Users\ilyav\OneDrive\Рабочий стол\well\СПП GG\2\Faker\obj\Debug\net8.0\DTOFiller.csproj.CoreCompileInputs.cache
+C:\Users\ilyav\OneDrive\Рабочий стол\well\СПП GG\2\Faker\obj\Debug\net8.0\DTOFiller.dll
+C:\Users\ilyav\OneDrive\Рабочий стол\well\СПП GG\2\Faker\obj\Debug\net8.0\refint\DTOFiller.dll
+C:\Users\ilyav\OneDrive\Рабочий стол\well\СПП GG\2\Faker\obj\Debug\net8.0\DTOFiller.pdb
+C:\Users\ilyav\OneDrive\Рабочий стол\well\СПП GG\2\Faker\obj\Debug\net8.0\ref\DTOFiller.dll
