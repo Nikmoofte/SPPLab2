@@ -9,3 +9,4 @@ C:\Users\ilyav\OneDrive\Рабочий стол\well\СПП GG\2\Faker\obj\Debug
 C:\Users\ilyav\OneDrive\Рабочий стол\well\СПП GG\2\Faker\obj\Debug\net8.0\refint\DTOFiller.dll
 C:\Users\ilyav\OneDrive\Рабочий стол\well\СПП GG\2\Faker\obj\Debug\net8.0\DTOFiller.pdb
 C:\Users\ilyav\OneDrive\Рабочий стол\well\СПП GG\2\Faker\obj\Debug\net8.0\ref\DTOFiller.dll
+C:\Users\ilyav\OneDrive\Рабочий стол\well\СПП GG\2\Faker\obj\Debug\net8.0\DTOFiller.sourcelink.json

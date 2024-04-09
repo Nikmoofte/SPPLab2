@@ -2,6 +2,7 @@
 using System.Security.Cryptography.X509Certificates;
 
 var faker = new DTOFiller.Faker();
+
 var empl = faker.Create<Employee>();
 var empl2 = faker.Create<Employee>();
 
@@ -12,6 +13,7 @@ Console.WriteLine(empl.ToString());
 Console.WriteLine(empl2.ToString());
 
 Console.WriteLine(notEmpl.ToString());
+
 Console.WriteLine(notEmpl2.ToString());
 
 ; ;;;;
@@ -36,8 +38,8 @@ public class Employee
         //...populate the properties here
     }
 
-    public int Id { get; set;}
-    public string Name { get; set; }    
+    public int[] Id { get; set;}
+    public string Name;  
     public DateTime DateOfJoining { get; set;}
     //..other domain operations
     public NotEmploee notEmploee { get; set; }

@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("DTOFiller")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+ffa2c10629dd55452a4e04a4e965ac85a8b2458f")]
 [assembly: System.Reflection.AssemblyProductAttribute("DTOFiller")]
 [assembly: System.Reflection.AssemblyTitleAttribute("DTOFiller")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

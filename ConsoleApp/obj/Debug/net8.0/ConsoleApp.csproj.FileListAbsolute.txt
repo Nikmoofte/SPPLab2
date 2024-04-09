@@ -16,3 +16,4 @@ C:\Users\ilyav\OneDrive\Рабочий стол\well\СПП GG\2\ConsoleApp\bin\
 C:\Users\ilyav\OneDrive\Рабочий стол\well\СПП GG\2\ConsoleApp\bin\Debug\net8.0\DTOFiller.pdb
 C:\Users\ilyav\OneDrive\Рабочий стол\well\СПП GG\2\ConsoleApp\obj\Debug\net8.0\ConsoleApp.csproj.AssemblyReference.cache
 C:\Users\ilyav\OneDrive\Рабочий стол\well\СПП GG\2\ConsoleApp\obj\Debug\net8.0\ConsoleApp.csproj.CopyComplete
+C:\Users\ilyav\OneDrive\Рабочий стол\well\СПП GG\2\ConsoleApp\obj\Debug\net8.0\ConsoleApp.sourcelink.json

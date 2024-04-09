@@ -17,7 +17,7 @@ namespace DTOFiller
 
             if(newObj == null)
             {
-                FieldInfo[] info = objType.GetFields(BindingFlags.Public);
+                FieldInfo[] info = objType.GetFields();
                 PropertyInfo[] propertyInfo = objType.GetProperties();
                 List<Field> fields = new List<Field>();
                 List<Property> properties = new List<Property>();
@@ -45,8 +45,13 @@ namespace DTOFiller
         {
             return generator.Get(valType);
         }
+        void AddConfig<InType, OutType>(Func<InType, OutType> func, IGenerator generator)
+        {
 
+        }
 
+        Dictionary<Type, Dictionary<FieldInfo, IGenerator>> configsFields;
+        Dictionary<Type, Dictionary<PropertyInfo, IGenerator>> configsProperties;
         private Generator generator = new Generator();
     }
 }
